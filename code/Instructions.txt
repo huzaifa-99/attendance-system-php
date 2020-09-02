@@ -1,0 +1,13 @@
+1. index.php is the home page
+2. user folder contains all code related to user features and same is for admin.
+3. makeconnection.php is the file connecting the system to the database and is required by all the files in admin and user folder.
+4. style is the CSS file.
+5. verify_user_session is required by the admin and user files to check if a session is active or not.
+
+
+
+
+
+For Further info
+
+Contact : huzaifarasheed900@gmail.com
